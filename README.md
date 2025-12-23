@@ -7,10 +7,10 @@
 An iOS application that helps users discover, search, and save sports events. Built with SwiftUI and Firebase, featuring real-time event updates, smart search functionality, and persistent bookmarks.
 
 
-<img width="1206" height="2622" alt="simulator_screenshot_64F97A4A-AD5C-4213-85CE-24D2C1706D93" src="https://github.com/user-attachments/assets/938bd6ff-bc1f-4cb1-aa10-a7bd2d94ea23" />
-<img width="1206" height="2622" alt="simulator_screenshot_8CFC6F0E-D81D-482F-9699-C6F8F2139518" src="https://github.com/user-attachments/assets/343a6589-db87-483c-a92a-a19f54417527" />
-<img width="1206" height="2622" alt="simulator_screenshot_827EAC46-FC77-494F-9D1A-92083745C840" src="https://github.com/user-attachments/assets/2052840e-6875-494a-b771-9c3514df8077" />
-<img width="1206" height="2622" alt="simulator_screenshot_846BCF11-9600-4D1E-A735-8BF9AF76F1E5" src="https://github.com/user-attachments/assets/157f1bf8-7a65-4021-9302-66fc8ea444c8" />
+<img width="600" height="545" alt="simulator_screenshot_64F97A4A-AD5C-4213-85CE-24D2C1706D93" src="https://github.com/user-attachments/assets/938bd6ff-bc1f-4cb1-aa10-a7bd2d94ea23" />
+<img width="600" height="545" alt="simulator_screenshot_8CFC6F0E-D81D-482F-9699-C6F8F2139518" src="https://github.com/user-attachments/assets/343a6589-db87-483c-a92a-a19f54417527" />
+<img width="600" height="545" alt="simulator_screenshot_827EAC46-FC77-494F-9D1A-92083745C840" src="https://github.com/user-attachments/assets/2052840e-6875-494a-b771-9c3514df8077" />
+<img width="600" height="545" alt="simulator_screenshot_846BCF11-9600-4D1E-A735-8BF9AF76F1E5" src="https://github.com/user-attachments/assets/157f1bf8-7a65-4021-9302-66fc8ea444c8" />
 
 ##Overview
 
