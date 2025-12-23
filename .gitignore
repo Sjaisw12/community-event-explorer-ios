@@ -1,0 +1,19 @@
+# Xcode
+DerivedData/
+*.xcuserdata
+*.xcworkspace
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# macOS
+.DS_Store
+
+# Firebase
+GoogleService-Info.plist
+
+# Swift Package Manager
+.build/
+Packages/
+
